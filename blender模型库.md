@@ -179,7 +179,7 @@ roadmap:
     视频教程：https://www.youtube.com/watch?v=heGwTzfIKo0&list=PLsbztkb4az9iEow8vgB0guWe1kd1Gw6Dy
 
 
-### manuelbastioni
+### MB-Lab
 
 分类：网格
 

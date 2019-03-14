@@ -115,7 +115,15 @@ Github获取地址: https://github.com/s-leger/archipack
 
 获取地址：https://github.com/50thomatoes50/blender.io_mqo
 
+### BlenderGIS
 
+分类:地理,地图获取地址：内置插件请备注内置，自制插件建议提供网盘下载链接
+
+标签:地理,地图
+
+介绍:blender地理数据的桥接插件
+
+获取地址: https://github.com/domlysz/BlenderGIS
 
 ### ANT Landscape
 

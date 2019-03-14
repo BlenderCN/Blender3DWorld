@@ -52,11 +52,30 @@ Blender众多的插件极大地丰富了Blender的可能性，提高了用户的
 
 正版购买链接：https://www.thegrove3d.com/
 
-白嫖用户链接：http://www.ghostxx.com/site/15083.html
+
+### tree-gen
+
+分类：植物，树
+
+介绍：各种树木生成器
+
+标签：树木，
+
+获取地址：https://github.com/friggog/tree-gen
 
 
+### archipack
 
+分类:建筑
 
+介绍:建筑生成插件
+
+标签: 建筑
+
+获取链接1:blender自带
+获取链接2: https://blender-archipack.org/
+
+Github获取地址: https://github.com/s-leger/archipack
 
 ### MMD Tools
 
@@ -139,6 +158,35 @@ roadmap:
 获取地址：https://pan.baidu.com/s/1OOXR4D8o0ApyBzWiXj6pjw 密码：xddk
 
 
+### GXAudioVisualisation 
+
+分类:声音
+
+标签: 声音,可视化
+
+介绍: blender声音可视化插件
+
+获取地址: https://github.com/the-duck/GXAudioVisualisation
+
+### jewelcraft
+
+分类: 珠宝
+
+标签: 珠宝
+
+介绍: blender珠宝设计插件
+
+获取地址: https://github.com/mrachinskiy/jewelcraft
+
+### blender-chemicals
+
+分类: 分子结构,化合物三维结构
+
+标签: 化合物,三维结构
+
+解释: 通过openbabel和blender生成化学物质的三维结构
+
+获取地址: https://github.com/patrickfuller/blender-chemicals
 
 ### HairNet
 
@@ -150,6 +198,15 @@ roadmap:
 
 获取地址：https://github.com/Jandals/HairNet
 
+### SpaceshipGenerator
+
+分类: 太空船
+
+标签: 太空船
+
+介绍: 太空船生成插件
+
+获取地址: https://github.com/a1studmuffin/SpaceshipGenerator
 
 ### Paper Model
 分类：导出
@@ -159,6 +216,15 @@ roadmap:
 获取地址：2.7之后自带
 
 
+### py3DN
+
+分类,神经细胞,
+
+标签: 神经细胞,仿真
+
+介绍: 神经细胞仿真插件
+
+获取地址: https://github.com/paulodecastroaguiar/py3DN
 
 ### Sverchok
 
